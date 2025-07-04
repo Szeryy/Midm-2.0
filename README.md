@@ -52,11 +52,11 @@
 
 Mi:dm 2.0 is released in two versions:
 
-- **Mi:dm 2.0-Base**  
+- **Mi:dm 2.0 Base**  
   An 11.5B parameter dense model designed to balance model size and performance.  
   It extends an 8B-scale model by applying the Depth-up Scaling (DuS) method, making it suitable for real-world applications that require both performance and versatility.
 
-- **Mi:dm 2.0-Mini**  
+- **Mi:dm 2.0 Mini**  
   A lightweight 2.3B parameter dense model optimized for on-device environments and systems with limited GPU resources. It was derived from the Base model through pruning and distillation to enable compact deployment.
 
 >[!Note]
