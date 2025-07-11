@@ -11,7 +11,7 @@
 
 <p align="center">
   🤗 <a href="https://huggingface.co/collections/K-intelligence/mi-dm-20-6866406c301e5f45a6926af8">Mi:dm 2.0 Models</a> |
-  📜 <a href="./Mi_dm-2_0_technical_report.pdf"> Mi:dm 2.0 Technical Report</a> |
+  📜 <a href="./Mi_dm2_0_technical_report.pdf"> Mi:dm 2.0 Technical Report</a> |
   📕 Mi:dm 2.0 Technical Blog*
 </p>
 
