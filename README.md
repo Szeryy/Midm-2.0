@@ -12,14 +12,14 @@
 <p align="center">
   🤗 <a href="https://huggingface.co/collections/K-intelligence/mi-dm-20-6866406c301e5f45a6926af8">Mi:dm 2.0 Models</a> |
   📜 <a href="./Mi_dm2_0__technical_report.pdf"> Mi:dm 2.0 Technical Report</a> |
-  📕 Mi:dm 2.0 Technical Blog*
+  📕 <a href="https://kode.kt.com/blog/article/3935">Mi:dm 2.0 Technical Blog</a>
 </p>
 
-<p align="center"><sub>*To be released soon</sub></p>
 
 ## News 📢
 
-- 🔜 _(Coming Soon!) GGUF format model files will be available soon for easier local deployment._  
+- 🔜 _(Coming Soon!) GGUF format model files will be available soon for easier local deployment._
+- 📕`2025/08/08`: Published a technical blog article about Mi:dm 2.0 Model.
 - ⚡️`2025/07/04`: Released Mi:dm 2.0 Model collection on Hugging Face🤗.
 
 <br>
